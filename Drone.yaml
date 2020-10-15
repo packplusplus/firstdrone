@@ -21,4 +21,4 @@ steps:
       from_secret: docker_password
     repo: packplusplus/drone_demo
     tags:
-      - '1.0.2'
+      - '1.0.3'
